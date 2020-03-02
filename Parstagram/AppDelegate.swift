@@ -9,6 +9,8 @@
 import UIKit
 import Parse
 
+var window: UIWindow?
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -42,4 +44,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
 
